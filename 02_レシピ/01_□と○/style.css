@@ -1,0 +1,13 @@
+.square {
+  width: 200px;
+  height: 200px;
+  background-color: blueviolet;
+}
+
+.rounded {
+  border-radius: 100px;
+}
+
+.transition {
+  transition: all 1s;
+}

@@ -1,0 +1,22 @@
+.input {
+  display: flex;
+}
+#memolist {
+  display: inline-block;
+}
+#memocard {
+  margin: 15px;
+  height: 200px;
+  width: 200px;
+  background-color: bisque;
+  text-align: center;
+}
+
+#memocard:hover {
+  background-color: aquamarine;
+}
+
+#memocontent {
+  margin: 5px;
+  align-items: center;
+}
